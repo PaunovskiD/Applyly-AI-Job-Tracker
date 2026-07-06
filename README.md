@@ -47,13 +47,9 @@ Instead of managing applications in spreadsheets or notes, users can track oppor
 
 ![Dashboard](screenshots/dashboard.png)
 
-### Add Application
-
 ![Add Application](screenshots/add-application.png)
 
-### AI Insights
-
-![AI Insights](screenshots/ai-insights.png)
+![AI Insights](screenshots/ai-insights.png)       
 
 ---
 
